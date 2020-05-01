@@ -12,7 +12,7 @@
 	<groupId>com.educandoweb</groupId>
 	<artifactId>course</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Session24</name>
+	<name>Session25</name>
 	<description>Course Spring Boot</description>
 
 	<properties>
